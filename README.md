@@ -1,6 +1,6 @@
 # Discord モカにゃんBot
 
-discordjsを用いたDiscordBotです。
+DiscordjsとNodejs用いたDiscordBotです。
 
 
 ## 詳細
